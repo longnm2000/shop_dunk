@@ -1,0 +1,17 @@
+.header-logo-img {
+    height: 45px;
+    width: auto;
+}
+
+.header-sd {
+    background: var(--header-bg-color);
+}
+
+.header-text {
+    color: #e0e0e0;
+}
+
+.header-text:hover {
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+}
